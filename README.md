@@ -12,8 +12,13 @@
 * 手表显示器，显示参数
 * Persistence Of Vision 显示，低优先级
 * 无线通讯，蓝牙组网？
+* 用 GPS + Morse Code 书写 The 4 Letter Word GFW
 
 # 硬件方案
 
 限制用 Arduino 实现
+
+# 挑战
+
+可以一边骑轮车一边拉小提琴。那也可以一边骑独轮车一边写 hello world 并编译执行。
 
